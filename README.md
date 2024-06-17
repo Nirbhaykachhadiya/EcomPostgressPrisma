@@ -1,0 +1,1 @@
+this is practise project of ecom with postgress and prisma
